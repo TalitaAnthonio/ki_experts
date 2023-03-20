@@ -1,3 +1,4 @@
 venv
-./data/questions.csv 
-./data/tags.csv
+data/questions.csv 
+data/tags.csv
+*.pyc
