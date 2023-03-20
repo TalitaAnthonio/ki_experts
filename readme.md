@@ -6,7 +6,7 @@ starting point to explore the feasability, as indicated in the case study. For f
 1. Install packages using pip. 
 
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 # Datasets and resources 
